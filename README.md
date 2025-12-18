@@ -6,10 +6,6 @@
 In this tutorial, we observe various network traffic to and from Azure Virtual Machines with Wireshark as well as experiment with Network Security Groups. <br />
 
 
-<h2>Video Demonstration</h2>
-
-- ### [YouTube: Azure Virtual Machines, Wireshark, and Network Security Groups](https://www.youtube.com)
-
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
@@ -29,7 +25,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 <img width="1546" height="301" alt="1" src="https://github.com/user-attachments/assets/5dc6db1a-67fa-430e-867e-b8d0d99b3de2" />
 
 <p>
-In this procedure, we will configure Network Security Groups and observing network traffic within Microsoft Azure. To get started, we will create 2 virtual machines. One Virtual machine will be running Windows 10, and the other will be running Linux. When creating the VMs, we will ensure both virtual machines are under the same network, region, resource group and contain at least 2 Vcpus for the size. (Reference Active Directory repository for VM set-up tips).
+In this procedure, we will configure Network Security Groups and observing network traffic within Microsoft Azure. To get started, we will create 2 virtual machines. One Virtual machine will be running Windows 10, and the other will be running Linux. When creating the VMs, we will ensure both virtual machines are under the same network, region, resource group and contain at least 2 Vcpus for the size. (Reference the following for virtual machine set-up:  -- <a href="https://github.com/RahulKumar-98/MSAzure-activedirectory">On-premises Active Directory Deployed in the Cloud (Azure).
 </p>
 <br />
 
